@@ -87,7 +87,7 @@ input {
 }
 .hero-left-section p span {
   font-weight: 300;
-  color: rgb(18, 155, 155);
+  color: #129b9b;
 }
 
 .hero-right-section {
@@ -122,4 +122,8 @@ footer ul {
   display: flex;
   align-items: center;
   gap: 30px;
+}
+
+.hero-right-section > img {
+  filter: drop-shadow(5px 5px 5px #129b9b);
 }

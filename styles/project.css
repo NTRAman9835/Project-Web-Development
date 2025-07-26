@@ -113,5 +113,9 @@ footer ul {
   gap: 30px;
 }
 footer i {
-  color: aqua;
+  color: #9ff6f6;
+}
+
+.herosection > img {
+  filter: drop-shadow(10px 10px 10px #9ff6f6);
 }
